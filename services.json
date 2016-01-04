@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "name" : "Hardware Repair",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus enim id tincidunt facilisis. Sed vitae sagittis lacus. Sed imperdiet enim et mauris laoreet, ut vulputate ex pellentesque. Curabitur ultricies non lectus at facilisis. Vestibulum interdum ullamcorper laoreet. Fusce sit amet tempus lorem. Aenean facilisis non justo quis maximus. Mauris tempor ullamcorper quam, vitae condimentum lectus congue sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce metus ante, sollicitudin ut faucibus at, rhoncus laoreet ex.",
+    "image" : "computer-icon.png"
+  },
+  {
+    "id" : 2,
+    "name" : "Virus Removal",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus enim id tincidunt facilisis. Sed vitae sagittis lacus. Sed imperdiet enim et mauris laoreet, ut vulputate ex pellentesque. Curabitur ultricies non lectus at facilisis. Vestibulum interdum ullamcorper laoreet. Fusce sit amet tempus lorem. Aenean facilisis non justo quis maximus. Mauris tempor ullamcorper quam, vitae condimentum lectus congue sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce metus ante, sollicitudin ut faucibus at, rhoncus laoreet ex.",
+    "image" : "computer-icon.png"
+  },
+  {
+    "id" : 3,
+    "name" : "System Tuneup",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus enim id tincidunt facilisis. Sed vitae sagittis lacus. Sed imperdiet enim et mauris laoreet, ut vulputate ex pellentesque. Curabitur ultricies non lectus at facilisis. Vestibulum interdum ullamcorper laoreet. Fusce sit amet tempus lorem. Aenean facilisis non justo quis maximus. Mauris tempor ullamcorper quam, vitae condimentum lectus congue sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce metus ante, sollicitudin ut faucibus at, rhoncus laoreet ex.",
+    "image" : "computer-icon.png"
+  }
+]
